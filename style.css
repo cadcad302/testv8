@@ -12,6 +12,7 @@ li {
     color: #cccccc;
     font-family: monospace;
     font-size: large;
+    background-position-x: left;
 }
 html {
     background-color: #111111;
