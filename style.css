@@ -49,3 +49,9 @@ h3 {
 .link {
     color:silver
 }
+div {
+    margin-bottom: 10px;
+    background-color: rgba(134, 7, 7, 0.692);
+    padding: 10px;
+    border-radius: 5px;
+}
